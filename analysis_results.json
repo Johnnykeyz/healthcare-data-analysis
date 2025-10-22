@@ -1,0 +1,141 @@
+{
+  "summary": {
+    "total_patients": 70,
+    "avg_stay": 5.1,
+    "avg_cost": 12957.14,
+    "success_rate": 92.9,
+    "readmission_rate": 4.3
+  },
+  "by_condition": [
+    {
+      "condition": "Diabetes",
+      "Patient_Count": 14,
+      "Avg_Stay_Days": 4.07,
+      "Avg_Cost": 8921.43,
+      "Success_Rate": 100.0,
+      "Readmission_Rate": 0.0
+    },
+    {
+      "condition": "Heart Disease",
+      "Patient_Count": 15,
+      "Avg_Stay_Days": 7.4,
+      "Avg_Cost": 17833.33,
+      "Success_Rate": 67.0,
+      "Readmission_Rate": 20.0
+    },
+    {
+      "condition": "Neurological",
+      "Patient_Count": 9,
+      "Avg_Stay_Days": 7.56,
+      "Avg_Cost": 20688.89,
+      "Success_Rate": 100.0,
+      "Readmission_Rate": 0.0
+    },
+    {
+      "condition": "Orthopedic",
+      "Patient_Count": 14,
+      "Avg_Stay_Days": 3.0,
+      "Avg_Cost": 12371.43,
+      "Success_Rate": 100.0,
+      "Readmission_Rate": 0.0
+    },
+    {
+      "condition": "Respiratory",
+      "Patient_Count": 18,
+      "Avg_Stay_Days": 4.5,
+      "Avg_Cost": 8622.22,
+      "Success_Rate": 100.0,
+      "Readmission_Rate": 0.0
+    }
+  ],
+  "by_treatment": [
+    {
+      "treatment_type": "Medication",
+      "Patient_Count": 29,
+      "Avg_Cost": 10979.31,
+      "Success_Rate": 93.0,
+      "Avg_Stay": 5.0
+    },
+    {
+      "treatment_type": "Surgery",
+      "Patient_Count": 23,
+      "Avg_Cost": 17386.96,
+      "Success_Rate": 87.0,
+      "Avg_Stay": 5.91
+    },
+    {
+      "treatment_type": "Therapy",
+      "Patient_Count": 18,
+      "Avg_Cost": 10483.33,
+      "Success_Rate": 100.0,
+      "Avg_Stay": 4.33
+    }
+  ],
+  "by_age_group": [
+    {
+      "age_group": "Young (18-35)",
+      "Patient_Count": 12,
+      "Avg_Cost": 8716.67,
+      "Avg_Stay": 3.92,
+      "Success_Rate": 100.0
+    },
+    {
+      "age_group": "Middle (36-50)",
+      "Patient_Count": 19,
+      "Avg_Cost": 11373.68,
+      "Avg_Stay": 4.58,
+      "Success_Rate": 100.0
+    },
+    {
+      "age_group": "Senior (51-65)",
+      "Patient_Count": 20,
+      "Avg_Cost": 13225.0,
+      "Avg_Stay": 5.3,
+      "Success_Rate": 90.0
+    },
+    {
+      "age_group": "Elderly (66+)",
+      "Patient_Count": 19,
+      "Avg_Cost": 16936.84,
+      "Avg_Stay": 6.26,
+      "Success_Rate": 84.0
+    }
+  ],
+  "monthly_trends": [
+    {
+      "month": "2024-01",
+      "admissions": 10,
+      "avg_cost": 12690.0
+    },
+    {
+      "month": "2024-02",
+      "admissions": 12,
+      "avg_cost": 12750.0
+    },
+    {
+      "month": "2024-03",
+      "admissions": 11,
+      "avg_cost": 13654.55
+    },
+    {
+      "month": "2024-04",
+      "admissions": 12,
+      "avg_cost": 13208.33
+    },
+    {
+      "month": "2024-05",
+      "admissions": 12,
+      "avg_cost": 12291.67
+    },
+    {
+      "month": "2024-06",
+      "admissions": 12,
+      "avg_cost": 13616.67
+    },
+    {
+      "month": "2024-07",
+      "admissions": 1,
+      "avg_cost": 7500.0
+    }
+  ]
+}
