@@ -293,9 +293,9 @@ This project is licensed under the MIT License - feel free to use it for learnin
 ## 👤 Author
 
 **Your Name**  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Portfolio: [Adebule_John](https://johnnykeyz.github.io/Adebule_John/)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/john-adebule)
+- GitHub: [@johnnykeyz](https://github.com/johnnykeyz)
 
 ---
 
@@ -303,7 +303,7 @@ This project is licensed under the MIT License - feel free to use it for learnin
 
 Questions? Suggestions? Feel free to reach out!
 
-**Email:** your.email@example.com
+**Email:** adebulejohnfav@gmail.com
 
 ---
 
@@ -315,4 +315,4 @@ Questions? Suggestions? Feel free to reach out!
 
 ---
 
-**Made with ❤️ and Python**
+**Made by Adebule John ❤️ with Python**
